@@ -7,5 +7,11 @@ El proyecto SADDA (Sistema de Ayuda a la Decisión para el Diagnóstico de Anemi
 
 ## Lenguaje de programación
 - CLIPS
+<br>
+<br>
+
+<p align="center">
+    <img src="SADDA_icon.png" style="width: 40%; height: auto;">
+  </p>
 
 <br/>
